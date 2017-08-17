@@ -1,0 +1,65 @@
+.ToGoLogo {
+	margin-bottom: 15px;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+.togo {
+	background-color: white;
+}
+img {
+    border-radius: 100%;
+    width: 180px;
+    height: 180px;
+    margin: 20px 20px 20px 20px;
+    align-self: center;
+    border-style: solid;
+}
+.ToGoLogo {
+	border-radius: 0px;
+	width: 250px;
+	height: 88px;
+} 
+.center {
+    padding: 70px 0;
+    border: 3px solid green;
+}
+#Country {
+    background-color:#d7f4f1;
+}
+p {
+	text-align: center;
+	background-color: #268c82;
+	border-radius: 8px;
+	font-size: 20px;
+	margin: 20px 20px 20px 20px;
+	font-family: "Trebuchet MS";
+	color: #f2f2f2;
+}
+#Country h1 {
+	text-align: center;
+	font-family: "Trebuchet MS";
+	color: #16504a;
+}
+h3 {
+	text-align: center;
+	font-family: "Trebuchet MS";
+}
+h4 {
+	text-align: center;
+	font-family: "Trebuchet MS";
+}
+footer {
+	background-color: #4d4d4d;
+}
+.footerfont {
+	color: #ffecfb;
+	background-color: #4d4d4d;
+	font-family: "Trebuchet MS";
+}
+.description {
+	font-size: 25px;
+}
+.myimage {
+	margin-left: 30%;
+	 box-shadow: 10px 10px 10px #888888;
+}
